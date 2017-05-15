@@ -1,0 +1,7 @@
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\bin\Debug\ReadFileToExcel.exe.config
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\obj\Debug\ReadFileToExcel.csprojResolveAssemblyReference.cache
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\bin\Debug\ReadFileToExcel.exe
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\bin\Debug\ReadFileToExcel.pdb
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\obj\Debug\ReadFileToExcel.exe
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\obj\Debug\ReadFileToExcel.pdb
+c:\users\pcs425\documents\visual studio 2015\Projects\ReadFileToExcel\ReadFileToExcel\obj\Debug\ReadFileToExcel.csproj.ResolveComReference.cache
